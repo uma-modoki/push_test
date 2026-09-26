@@ -7,3 +7,4 @@ bugfix/part4
 bugfix/part5
 bugfix/part6
 bugfix/part7
+bugfix/part8
